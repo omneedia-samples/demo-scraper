@@ -1,0 +1,42 @@
+namespace: fr.zucatti.demoscrapper
+uri: ""
+title: demo-scrapper
+description: Scrapping example of a web site
+platform: webapp
+uid: dfiaxzqq5
+license: MIT License (MIT)
+version: 0.0.1
+build: "0"
+copyright: Copyright (c) 2020 my awesome copany
+author:
+  name: Stéphane Zucatti
+  mail: stephane.zucatti@me.com
+  twitter: "@mydearsz"
+  web: https://lab.siipro.fr/zucatti
+team:
+  debugger: []
+  tester: []
+langs:
+  - en
+  - fr
+framework: ExtJS
+modules:
+  - omneedia:0.9.4
+  - extjs-core:6.6.0
+  - omneedia-extjs:0.9.4
+  - extjs-core-classic:6.6.0
+packages:
+  - moment
+  - "@omneedia/scraper"
+auth: null
+controllers:
+  - CMain
+db: null
+jobs: null
+tests: null
+icon:
+  file: logo.png
+splashscreen:
+  background-from: "#ffffff"
+  background-color: orange
+  file: logo.png

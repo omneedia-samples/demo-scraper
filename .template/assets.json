@@ -1,0 +1,16 @@
+[
+    {
+        "src": "{{manifest.splashscreen.file}}",
+        "transform": {
+            "resize": "256,256"
+        },
+        "dest": "webapp/logo.png"
+    },
+    {
+        "src": "{{manifest.splashscreen.file}}",
+        "transform": {
+            "resize": "16,16"
+        },
+        "dest": "webapp/ico.png"
+    }
+]

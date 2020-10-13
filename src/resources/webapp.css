@@ -1,0 +1,50 @@
+.BackgroundSystem {
+  background-image: url(webapp/defaultdesktop.png);
+}
+
+.qxAboutLogo {
+  background-image: url(webapp/logo.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 128px 128px;
+  width: 128px;
+  height: 128px;
+}
+
+.qxIcon {
+  background-image: url(webapp/ico.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 16px 16px;
+  width: 16px;
+  height: 16px;
+}
+
+.mnu_preferences {
+  background-image: url(webapp/Preferences.png);
+}
+
+.OACardIcon {
+  background-image: url(webapp/ico.png);
+  display: inline;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.checked {
+  background-image: url(webapp/check.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  height: 15px;
+  width: 100%;
+}
+
+.unchecked {
+  background-image: url(webapp/unchecked.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  height: 15px;
+  width: 100%;
+}
