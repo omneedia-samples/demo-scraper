@@ -1,7 +1,7 @@
-namespace: fr.zucatti.demoscrapper
+namespace: fr.zucatti.demoscraper
 uri: ""
-title: demo-scrapper
-description: Scrapping example of a web site
+title: demo-scraper
+description: Web scraping demo
 platform: webapp
 uid: dfiaxzqq5
 license: MIT License (MIT)
