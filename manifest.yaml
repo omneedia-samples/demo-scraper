@@ -1,18 +1,18 @@
-namespace: fr.zucatti.demoscraper
-uri: ""
+namespace: fr.omneedia.demoscraper
+uri: ''
 title: demo-scraper
 description: Web scraping demo
 platform: webapp
 uid: dfiaxzqq5
 license: MIT License (MIT)
 version: 0.0.1
-build: "0"
+build: '0'
 copyright: Copyright (c) 2020 my awesome copany
 author:
   name: Stéphane Zucatti
   mail: stephane.zucatti@me.com
-  twitter: "@mydearsz"
-  web: https://lab.siipro.fr/zucatti
+  twitter: '@mydearsz'
+  web:
 team:
   debugger: []
   tester: []
@@ -21,13 +21,13 @@ langs:
   - fr
 framework: ExtJS
 modules:
-  - omneedia:0.9.4
-  - extjs-core:6.6.0
-  - omneedia-extjs:0.9.4
-  - extjs-core-classic:6.6.0
+  - omneedia-framework
+  - extjs-core
+  - omneedia-extjs
+  - extjs-core-classic
 packages:
   - moment
-  - "@omneedia/scraper"
+  - '@omneedia/scraper'
 auth: null
 controllers:
   - CMain
@@ -37,6 +37,6 @@ tests: null
 icon:
   file: logo.png
 splashscreen:
-  background-from: "#ffffff"
+  background-from: '#ffffff'
   background-color: orange
   file: logo.png
