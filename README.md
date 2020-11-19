@@ -1,7 +1,7 @@
 
 # demo-scrapper
 Scrapping example of a web site
-## fr.zucatti.demoscrapper
+## fr.omneedia.demoscrapper
 Copyright (c) 2020 my awesome copany
 ## History
 First commit
